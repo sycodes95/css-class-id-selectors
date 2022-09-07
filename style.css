@@ -1,0 +1,22 @@
+.im-a-class{
+    background-color: rgb(255, 182, 193);
+    font-family: verdana;
+    font-family: sans-serif
+    
+}
+
+#number2{
+    color: rgb(0, 0, 193);
+    font-size: 36px;
+}
+
+.im-a-class#cooler {
+    font-size: 24px;
+
+}
+
+#number4{
+    background-color: rgb(0, 200, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
